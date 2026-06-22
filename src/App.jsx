@@ -9,7 +9,7 @@ gsap.registerPlugin(ScrollTrigger, SplitText);
 import Navbar from './components/Navbar.jsx'
 import Hero from './components/Hero.jsx'
 import Footer from './components/Footer.jsx'
-import About from "./components/About";
+import About from "./components/about";
 import Events from "./components/Events.jsx"
 
 
